@@ -18,6 +18,8 @@ How to push to remote commit
 
 dummy changes
 
+new changes
+
 	
 	
 
