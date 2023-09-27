@@ -1,0 +1,21 @@
+ 72029242f@saoe365.onmicrosoft.com
+
+Heismad10@
+
+
+/////////////////-------------------------/////////////////////////
+How to push to remote commit
+
+1.github account
+2.empty repo
+3.local system
+  	git config --global user.name "NIKHIL-afk"
+  	git config --global user.email "nikhilsingh200174@gmail.com"
+4.git push -u origin master
+	username NIKHIL-afk
+	password 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
+  
+
+	
+	
+
